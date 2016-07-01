@@ -16,5 +16,7 @@ Kita akan mengubah sebuah Fonts bawaan dengan menggunakan widget TextView, sesua
 
 3. Ketiga kita akan terapkan baris instruksi(codingan) dibawah pada MainActivity.java
 
+Contoh Tampilan :
 
+![Image of CustomFont](https://github.com/irwan76/Widget/blob/master/CustomFont/CustomFont.png)
 
